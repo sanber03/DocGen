@@ -1,0 +1,8 @@
+section1_title: "Exemple de titre de section"
+section2_title: "Exemple de titre de section imbriquée"
+show_summary: true   
+hide_3: true
+une_liste:
+  - 1
+  - 2
+  - 3

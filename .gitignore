@@ -1,0 +1,38 @@
+# Fichiers Python compilés
+**/__pycache__/**/*
+*.py[cod]
+*.pyo
+
+
+# Poetry
+dist/*
+
+
+# Fichiers temporaires
+.DS_Store
+*.swp
+*.bak
+*.tmp
+
+# Jupyter et Quarto
+.ipynb_checkpoints/
+*.ipynb
+*.qmd
+*.pdf
+*.docx
+**/.quarto/*
+**/_quarto.yml
+
+# docGen
+**/docgen_output/*
+
+# ... cas particulier exemple
+!src/docgen/examples/**/*.qmd
+!src/docgen/examples/**/*.md
+
+src/docgen/examples/api/Chapter2.qmd
+
+# ... cas particulier extension
+!src/docgen/extensions/docgen/**
+
+

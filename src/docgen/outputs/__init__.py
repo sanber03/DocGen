@@ -1,0 +1,1 @@
+GENERATED_PATH_IN_BUILD_DIR = "generated"
