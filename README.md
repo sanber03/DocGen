@@ -220,21 +220,6 @@ docgen render path/to/source --pt website --to html
 - `website`: Multi-page website
 - `book`: Book format with chapters
 
-## Reporting Issues
-
-When reporting an issue, please include:
-
-1. Run the command with debug logging:
-   ```bash
-   docgen render .... --log-level debug --log .log
-   ```
-
-2. Collect:
-   - Source folder
-   - `.log` and `.log_quarto` files
-   - Console output
-
-3. Open an issue on GitHub with the information
 
 ## Author
 
